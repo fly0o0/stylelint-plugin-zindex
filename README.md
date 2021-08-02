@@ -1,2 +1,6 @@
 # stylelint-plugin-zindex
-stylelint-plugin-zindex demo
+
+```
+npm run install
+npx stylelint "*/index.css"
+```
